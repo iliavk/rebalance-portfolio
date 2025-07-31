@@ -63,12 +63,12 @@ rebalance-portfolio/
 
 Ilia Krillov  
 Math PhD graduate pivoting into finance and quantitative research.  
-📍 Based in Canada / Netherlands  
-🚀 Open to data science, quant, and trading-related roles
+Based in Canada / Netherlands  
+Open to data science, quant, and trading-related roles
 
 ---
 
-## 📬 Contact
+## Contact
 
 - https://www.linkedin.com/in/ilia-v-kirillov
 - ilia.v.kirillov@gmail.com
