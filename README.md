@@ -70,5 +70,5 @@ Math PhD pivoting into finance and quantitative research.
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com/)ilia-v-kirillov
-- Email: ilia.v.kirillov@gmail.com
+- https://www.linkedin.com/in/ilia-v-kirillov
+- ilia.v.kirillov@gmail.com
