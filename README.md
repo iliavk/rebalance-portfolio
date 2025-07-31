@@ -55,7 +55,7 @@ rebalance-portfolio/
 - Add transaction costs and taxes
 - Dynamic (volatility-sensitive) rebalancing
 - Add more asset classes (e.g., crypto)
-- Reinforcement learning rebalancer (if you're feeling spicy 🌶️)
+- Reinforcement learning rebalancer 
 
 ---
 
