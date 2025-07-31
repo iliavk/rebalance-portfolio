@@ -1,14 +1,14 @@
 # Rebalancing a 2-Asset Portfolio: T-Bills and S&P 500
 
 This project simulates and analyzes a simple portfolio rebalancing strategy involving two asset classes:
-- 🧾 **T-Bills** (risk-free asset)
-- 📈 **S&P 500 Index** (risky asset)
+- **T-Bills** (risk-free asset)
+- **S&P 500 Index** (risky asset)
 
 We aim to maintain a constant 30% / 70% allocation between T-Bills and the S&P 500, and compare portfolio performance under different rebalancing strategies.
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 - Implement a basic 2-asset portfolio with a 70/30 S&P/T-Bill allocation
 - Simulate portfolio evolution with:
@@ -20,7 +20,7 @@ We aim to maintain a constant 30% / 70% allocation between T-Bills and the S&P 5
 
 ---
 
-## 📊 Technologies
+## Technologies
 
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -29,7 +29,7 @@ We aim to maintain a constant 30% / 70% allocation between T-Bills and the S&P 5
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rebalance-portfolio/
@@ -42,7 +42,7 @@ rebalance-portfolio/
 
 ---
 
-## 📈 Sample Outputs (Coming Soon)
+## Sample Outputs (Coming Soon)
 
 - Cumulative portfolio value comparison
 - Asset weight drift over time
@@ -50,7 +50,7 @@ rebalance-portfolio/
 
 ---
 
-## 💡 Future Extensions
+## Future Extensions
 
 - Add transaction costs and taxes
 - Dynamic (volatility-sensitive) rebalancing
@@ -59,10 +59,10 @@ rebalance-portfolio/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ilia Krillov  
-Math PhD pivoting into finance and quantitative research.  
+Math PhD graduate pivoting into finance and quantitative research.  
 📍 Based in Canada / Netherlands  
 🚀 Open to data science, quant, and trading-related roles
 
